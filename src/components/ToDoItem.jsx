@@ -1,3 +1,4 @@
+// ToDoItem component - handles toggle, edit and delete for each task
 import { useState, useRef, useEffect } from 'react'
 import styles from '../styles/ToDoItem.module.css'
 
