@@ -1,4 +1,5 @@
-import { useState } from 'react'
+
+// App component - root component managing all task stateimport { useState } from 'react'
 import Header from './components/Header'
 import ToDoList from './components/ToDoList'
 import styles from './styles/App.module.css'
