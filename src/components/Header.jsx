@@ -1,3 +1,4 @@
+// Header component - displays title, progress bar and add task form
 import { useState } from 'react'
 import styles from '../styles/Header.module.css'
 
