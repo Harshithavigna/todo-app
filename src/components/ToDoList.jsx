@@ -1,3 +1,4 @@
+// ToDoList component - renders all tasks dynamically using map
 import ToDoItem from './ToDoItem'
 import styles from '../styles/ToDoList.module.css'
 
